@@ -90,7 +90,6 @@ Here are some of the domains I actively work in:
 ## Current Focus
 
 - Advancing hybrid CNN + ViT architectures
-- Research publication (IEEE format)
 - Building production-ready AI systems
 - Exploring scalable LLM-based applications
 
@@ -98,7 +97,7 @@ Here are some of the domains I actively work in:
 
 ## Contact
 
-- LinkedIn: (add your link)
+- LinkedIn: www.linkedin.com/in/reenapearlin/
 
 ---
 
