@@ -1,11 +1,11 @@
-# Hi, I'm Reena Pearlin
+# Hey, I'm Reena Pearlin
 
 AI & ML Developer | Generative AI Developer  
 Integrated M.Tech CSE Student (5-Year Program)
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I am an AI & Machine Learning developer focused on building intelligent systems that solve real-world problems.  
 My work spans Generative AI, Medical AI, Computer Vision, NLP, and AI-driven automation.
@@ -14,7 +14,7 @@ I enjoy designing complete AI pipelines — from data preprocessing and modeling
 
 ---
 
-## 🔬 Project Overview
+## Project Overview
 
 Here are some of the domains I actively work in:
 
